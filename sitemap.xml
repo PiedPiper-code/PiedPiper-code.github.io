@@ -3,12 +3,17 @@
 
     <sitemap>
         <loc>https://piedpiper-code.github.io/post-sitemap.xml</loc>
-        <lastmod>2020-09-29T02:34:56.727Z</lastmod>
+        <lastmod>2020-09-29T15:58:11.808Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://piedpiper-code.github.io/page-sitemap.xml</loc>
         <lastmod>2020-09-29T00:11:00.814Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://piedpiper-code.github.io/tag-sitemap.xml</loc>
+        <lastmod>2020-09-29T15:58:11.808Z</lastmod>
     </sitemap>
 
 </sitemapindex>

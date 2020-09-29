@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://piedpiper-code.github.io</loc>
-        <changefreq>daily</changefreq>
-        <priority>1</priority>
-    </url>
 
     <url>
-        <loc>https://piedpiper-code.github.io/2020/09/28/%E5%B0%8FOV_2B1B/</loc>
+        <loc>https://piedpiper-code.github.io/tags/Apt-leasing/</loc>
         <lastmod>2020-09-29T15:58:11.808Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
+        <priority>0.2</priority>
     </url>
 
 </urlset>
