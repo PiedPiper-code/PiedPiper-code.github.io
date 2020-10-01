@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>PiedPiper-code.github.io/post-sitemap.xml</loc>
+        <loc>https://piedpiper-code.github.io/post-sitemap.xml</loc>
         <lastmod>2020-09-29T17:43:02.539Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>PiedPiper-code.github.io/page-sitemap.xml</loc>
+        <loc>https://piedpiper-code.github.io/page-sitemap.xml</loc>
         <lastmod>2020-09-29T16:24:16.509Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>PiedPiper-code.github.io/tag-sitemap.xml</loc>
+        <loc>https://piedpiper-code.github.io/tag-sitemap.xml</loc>
         <lastmod>2020-09-29T16:20:54.453Z</lastmod>
     </sitemap>
 
