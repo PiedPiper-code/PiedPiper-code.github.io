@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://piedpiper-code.github.io</loc>
+        <loc>wwwcolumbusguide.best</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://piedpiper-code.github.io/2020/09/29/Governer%20Square%202Bi.5B%20Sep_29%20/</loc>
+        <loc>wwwcolumbusguide.best/2020/09/29/Governer%20Square%202Bi.5B%20Sep_29%20/</loc>
         <lastmod>2020-09-29T17:43:02.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>https://piedpiper-code.github.io/2020/09/29/UV%20Sep_29/</loc>
+        <loc>wwwcolumbusguide.best/2020/09/29/UV%20Sep_29/</loc>
         <lastmod>2020-09-29T17:37:33.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>https://piedpiper-code.github.io/2020/09/28/%E5%B0%8FOV_2B1B/</loc>
+        <loc>wwwcolumbusguide.best/2020/09/28/%E5%B0%8FOV_2B1B/</loc>
         <lastmod>2020-09-29T16:20:54.453Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
