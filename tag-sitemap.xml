@@ -2,78 +2,113 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://columbusguide.xyz/tags/%E6%9C%88%E7%A7%9F%E4%BD%8E%E4%BA%8E600/</loc>
-        <lastmod>2020-09-29T17:43:02.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://columbusguide.xyz/tags/%E5%8F%AF%E9%95%BF%E7%A7%9F/</loc>
-        <lastmod>2020-10-01T23:41:34.458Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://columbusguide.xyz/tags/%E5%AE%B6%E5%85%B7%E9%BD%90%E5%85%A8/</loc>
-        <lastmod>2020-10-02T00:37:08.096Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://columbusguide.xyz/tags/%E6%9C%88%E7%A7%9F%E4%BD%8E%E4%BA%8E1000/</loc>
-        <lastmod>2020-10-02T00:37:08.096Z</lastmod>
+        <lastmod>2020-10-12T15:42:25.045Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://columbusguide.xyz/tags/%E5%8C%85%E6%B0%B4%E7%94%B5/</loc>
-        <lastmod>2020-10-02T00:37:08.096Z</lastmod>
+        <lastmod>2020-10-12T15:42:25.045Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://columbusguide.xyz/tags/%E6%9C%89%E5%81%A5%E8%BA%AB%E6%88%BF/</loc>
-        <lastmod>2020-10-02T00:37:08.096Z</lastmod>
+        <loc>http://columbusguide.xyz/tags/%E6%9C%88%E7%A7%9F%E4%BD%8E%E4%BA%8E600/</loc>
+        <lastmod>2020-10-12T15:42:34.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E4%BD%8E%E4%BA%8E1000/</loc>
+        <lastmod>2020-10-15T14:46:59.476Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E4%BD%8E%E4%BA%8E600/</loc>
+        <lastmod>2020-10-15T14:48:12.546Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://columbusguide.xyz/tags/%E5%85%AC%E5%AF%93/</loc>
-        <lastmod>2020-10-02T01:31:34.092Z</lastmod>
+        <lastmod>2020-10-15T14:49:34.628Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://columbusguide.xyz/tags/%E6%A0%A1%E5%9B%AD%E9%99%84%E8%BF%91/</loc>
-        <lastmod>2020-10-02T01:31:34.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://columbusguide.xyz/tags/%E5%8F%AF%E7%9F%AD%E7%A7%9F/</loc>
-        <lastmod>2020-10-02T01:31:34.092Z</lastmod>
+        <lastmod>2020-10-15T14:49:34.628Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://columbusguide.xyz/tags/%E6%9C%88%E7%A7%9F%E4%BD%8E%E4%BA%8E700/</loc>
-        <lastmod>2020-10-02T01:31:34.092Z</lastmod>
+        <lastmod>2020-10-15T14:49:34.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E5%8F%AF%E7%9F%AD%E7%A7%9F/</loc>
+        <lastmod>2020-10-15T14:49:34.628Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://columbusguide.xyz/tags/%E5%8F%AA%E9%99%90%E5%A5%B3%E7%94%9F/</loc>
-        <lastmod>2020-10-02T01:31:34.092Z</lastmod>
+        <lastmod>2020-10-15T14:52:11.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91/</loc>
+        <lastmod>2020-10-15T14:52:11.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E5%8F%AF%E9%95%BF%E7%A7%9F/</loc>
+        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E6%9C%89%E5%81%A5%E8%BA%AB%E6%88%BF/</loc>
+        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E6%9C%89%E6%B8%B8%E6%B3%B3%E6%B1%A0/</loc>
+        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E5%AE%B6%E5%85%B7%E9%BD%90%E5%85%A8/</loc>
+        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://columbusguide.xyz/tags/%E6%9C%89%E9%98%B3%E5%8F%B0/</loc>
+        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

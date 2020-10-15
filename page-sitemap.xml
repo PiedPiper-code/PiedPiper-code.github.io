@@ -7,15 +7,29 @@
     </url>
     
     <url>
-        <loc>http://columbusguide.xyz/tags/</loc>
-        <lastmod>2020-09-29T16:24:16.509Z</lastmod>
+        <loc>http://columbusguide.xyz/about/</loc>
+        <lastmod>2020-10-12T17:36:14.628Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://columbusguide.xyz/about/</loc>
-        <lastmod>2020-09-29T00:11:00.814Z</lastmod>
+        <loc>http://columbusguide.xyz/categories/</loc>
+        <lastmod>2020-10-12T16:29:01.717Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://columbusguide.xyz/homie/</loc>
+        <lastmod>2020-10-12T16:11:19.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://columbusguide.xyz/tags/</loc>
+        <lastmod>2020-10-10T18:44:25.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
