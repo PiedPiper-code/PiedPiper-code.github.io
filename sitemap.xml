@@ -3,22 +3,22 @@
 
     <sitemap>
         <loc>http://columbusguide.xyz/post-sitemap.xml</loc>
-        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <lastmod>2020-10-15T14:52:16.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://columbusguide.xyz/page-sitemap.xml</loc>
-        <lastmod>2020-10-12T17:36:14.628Z</lastmod>
+        <lastmod>2020-10-12T17:36:14.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://columbusguide.xyz/category-sitemap.xml</loc>
-        <lastmod>2020-10-15T14:52:17.526Z</lastmod>
+        <lastmod>2020-10-15T14:52:16.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://columbusguide.xyz/tag-sitemap.xml</loc>
-        <lastmod>2020-10-12T15:42:25.045Z</lastmod>
+        <lastmod>2020-10-12T15:42:24.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
